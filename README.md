@@ -20,7 +20,7 @@ For this task, I created and updated my profiles on GitHub, LinkedIn, and Hacker
 ##  Task 3: Platforms
 In this task, I explored different digital platforms. I practiced coding on HackerRank by solving a Python problem, which improved my problem-solving ability. I also created a Digital Literacy Awareness Quiz using Google Forms and connected it to Google Sheets to collect and manage responses.
 
-🔗 Google Form Link: (paste your link here)
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeOXFYxJemjo2eYtFvByU1AnEdztXq9Io46pntGDnIsGG9hRg/viewform?usp=publish-editor
 
 ---
 
