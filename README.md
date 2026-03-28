@@ -60,7 +60,10 @@ Screenshot:<img width="1920" height="878" alt="HackerRank" src="https://github.c
 **Emails Drafted**:
 1)Request for assignment extension
 2)Internship application email
-**Social Media Checklist**:
+**Social Media Checklist**:5 Do's and Don'ts
+
+**Folder**:
+
 
 
 
