@@ -1,46 +1,66 @@
 # digital-literacy-project
-Digital literacy Portfolio Project
-# Digital Literacy Project
+**Student Name**-Divyanka Bohra
 
-##  Introduction
-This is my Digital Literacy Portfolio as part of CSE001.This project is based on the concept of digital literacy and its role in modern education and daily life. It focuses on developing practical knowledge of digital tools, online safety, and professional communication.
+**Registration No.**:25BCE10142
+
+**Branch**:CSE Core
+
+**Course Code**: CSE0001-Digital Literacy
+
+## 📚 Project Overview
+This is my Digital Literacy Portfolio as part of CSE001. As a Student Digital Ambassador, I explored professional online profiles, safe internet practices, coding platforms, collaboration tools, email etiquette, and cybercrime awareness.
+
+The project contains five tasks, each corresponding to a module of the course, along with a detailed report and screenshots...
 
 ---
 
-##  Task 1: Digital Literacy Infographic
+## 📍 Task 1: Digital Literacy Infographic
 # Tool used: Canva
-In this task, I designed a Infographic on Digital Literacy Awareness. It presents key ideas such as the use of digital tools, safe online practices, effective communication, and the importance of continuous learning in the digital world.
-# Screenshot:
+In this task, I designed a Infographic on Digital Literacy Awareness. It presents key ideas such as what is digital literacy, the use of digital tools, safe online practices, effective communication, and the importance of continuous learning in the digital world.
+# 📷Screenshot:
 <img width="328" height="827" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/86b692ef-839b-4741-8682-a530ed1636af" />
 
 
 ---
 
-##  Task 2: Digital Portfolio
-For this task, I created and updated my profiles on GitHub, LinkedIn, and HackerRank. These platforms helped me understand how to build a professional digital presence, share my work, and improve my technical and coding skills.
-# Screenshots:<img width="1920" height="913" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/bfcd5c3d-12ab-4ff3-9fe2-3c1fd7816073" />
-  #            <img width="338" height="801" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/eb4e2620-464f-4014-a51a-b83d59a265af" />
-<img width="838" height="468" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/e783dcd8-7083-4a1d-8a39-823e1f9dba73" />
+## 📍 Task 2: Digital Portfolio
+**Platforms Created**:
+
+1)**GitHub**- Profile README with name,branch,year and learning goals
+
+ 2)**LinkedIn**-Education section updated
+                      
+3)**Kaggle**-Beginner profile for Data science
+# 📷Screenshots :<img width="1920" height="903" alt="github" src="https://github.com/user-attachments/assets/5d1c1eca-ebd2-4b2c-9a71-c4c7af762e6b" />
+<img width="338" height="801" alt="linkedin" src="https://github.com/user-attachments/assets/707a70ba-9ab7-4389-a871-c14ff62426fa" />
+<img width="1920" height="814" alt="kaggle" src="https://github.com/user-attachments/assets/847957a1-64bd-42a9-aae6-0d8d8aff973e" />
+
+
 
 
 
 
 ---
 
-##  Task 3: Platforms
-In this task, I explored different digital platforms. I practiced coding on HackerRank by solving a Python problem, which improved my problem-solving ability. I also created a Digital Literacy Awareness Quiz using Google Forms and connected it to Google Sheets to collect and manage responses.
+## 📍 Task 3: Coding & Collaboration Platforms
+**Coding practice**: HackerRank "python"problem solved.
 
-Hackerrank:<img width="838" height="468" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/967c7d2a-7dad-4cbc-8c4a-bedc14c17fa6" />
+Screenshot:<img width="1920" height="878" alt="HackerRank" src="https://github.com/user-attachments/assets/49dbeef8-aaea-431e-bb3c-daab9cab6070" />
 
+**Google Form**: Digital Literacy Awareness Quiz(5 questions)
 
 🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeOXFYxJemjo2eYtFvByU1AnEdztXq9Io46pntGDnIsGG9hRg/viewform?usp=publish-editor
 
+**📷Screenshot**:<img width="1920" height="823" alt="GoogleForms" src="https://github.com/user-attachments/assets/d93a5e36-094a-463f-909c-0b33be0976cf" />
+
+
 ---
 
-##  Task 4: Email Communication
-This task involved writing both formal and informal emails. It helped me understand the correct format, tone, and structure required for professional communication.<img width="1015" height="487" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/ef2c7f3e-d909-495a-bedd-90e471bf2e02" /> 
-<img width="1096" height="451" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/196d985e-ca85-471c-8c5e-d9b63fb05ec0" />
-
+## 📍 Task 4: Professional Email & Social Media Etiqutte
+**Emails Drafted**:
+1)Request for assignment extension
+2)Internship application email
+**Social Media Checklist**:
 
 
 
