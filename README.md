@@ -60,15 +60,25 @@ Screenshot:<img width="1920" height="878" alt="HackerRank" src="https://github.c
 **Emails Drafted**:
 1)Request for assignment extension
 2)Internship application email
+
 **Social Media Checklist**:5 Do's and Don'ts
 
-**Folder**:
-
-
-
+**Folder**:task-4-email-etiquette/
 
 
 ---
 
-##  Conclusion
-Overall, this project helped me gain a better understanding of digital literacy and its importance. It improved my ability to use digital platforms, communicate effectively, and maintain a responsible online presence. These skills will be valuable for my academic journey and future career.
+## 📍Task 5: Cybercrime Awareness
+**Case Study**:UPI Fraud
+
+**Folder**:
+
+**Prevention Checklist**:8 actionable tips for college students
+
+**Folder**:
+
+
+---
+
+##  📃Project Report
+Full project report (write-ups for all tasks ,reflrctions,and conclusion) available at:
