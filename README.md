@@ -81,4 +81,4 @@ Screenshot:<img width="1920" height="878" alt="HackerRank" src="https://github.c
 ---
 
 ##  📃Project Report
-Full project report (write-ups for all tasks ,reflrctions,and conclusion) available at:
+Full project report (write-ups for all tasks ,reflrctions,and conclusion) available at:report/Project_Report.docx
