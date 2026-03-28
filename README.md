@@ -75,7 +75,7 @@ Screenshot:<img width="1920" height="878" alt="HackerRank" src="https://github.c
 
 **Prevention Checklist**:8 actionable tips for college students
 
-**Folder**:
+**Folder**:task-5-cybercrime/prevention-checklist.md
 
 
 ---
